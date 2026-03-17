@@ -7,8 +7,8 @@
 
 - 🔭 Currently I’m working on : *E-Commerce, Movies Website *
 
-- 🌱 I’m currently learning : *Django , Nodejs*
+- 🌱 I’m currently learning : *DevOps*
 
-- 💬 Ask me about : *CodeIgniter 3, Laravel , Python , PHP*
+- 💬 Ask me about : *Laravel 11, Python , PHP, HTML, CSS, Javascript, MySQL, AWS, AWS EC2*
 
 - 📫 Connect with me : *vyasketan2@gmail.com*
